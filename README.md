@@ -11,5 +11,5 @@ Step 1
 Step 2
 
 ```bash
- yarn / npm install
+ npm install
 ```
